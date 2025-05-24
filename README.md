@@ -7,7 +7,7 @@ A comprehensive relational database system for tracking student course outcomes 
 - **Automated CO Attainment Calculation** - Computes percentage attainment for each course outcome
 - **Multi-dimensional Assessment Tracking** - Records quiz, midterm, final, and classwork marks
 - **Comprehensive Reporting** - Generates grade distributions and CO attainment statistics
-- **Early Warning System** - Easily search and identifies any student’s CO attainment status and warn them about risk
+- **Early Warning System** - Easily search and identify any student’s CO attainment status and warn them about risk
 
 ## Database Schema
 ### Core Entities
@@ -20,7 +20,7 @@ A comprehensive relational database system for tracking student course outcomes 
 - 1 Course : N Student records
 
 ## ER Diagram
-[ER-Diagram](https://github.com/AponGhosh/Academic-Outcome-Analytics-using-RDBMS/blob/main/ER-Diagram.png)
+![ER-Diagram](https://github.com/AponGhosh/Academic-Outcome-Analytics-using-RDBMS/blob/main/ER-Diagram.png)
 
 ## Tools
 
